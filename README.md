@@ -13,5 +13,8 @@ const rene = {
     }
 };
 ```
+
 You can find me 🌐:
-- [Instagram]{https://www.instagram.com/reneeduardo100}
+- [Instagram](https://instagram.com/reneeduardo100)
+
+[![rene's github stats](https://github-readme.stats.vercel.app/ap1?username=reneeduardo24)](https://github.com/anuraghazra/github-readme-stats)
