@@ -17,7 +17,7 @@ const rene = {
 
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🌱 I’m currently learning **React, CSS & HTML**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rene.he24@gmail.com**
 
