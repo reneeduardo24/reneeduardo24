@@ -7,7 +7,7 @@ const rene = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["Vue"],
         },
         backEnd: ["JavaScript", "Java"],
         databases: ["MySql", "mongo"],
@@ -15,9 +15,9 @@ const rene = {
 };
 ```
 
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate web developer from Mexico</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **rene.he24@gmail.com**
 
