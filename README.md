@@ -4,20 +4,15 @@
 ```js
 const rene = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["tech", "app dev", "game"],
     technologies: {
-        frontEnd: {
-            js: ["Vue"],
-        },
-        backEnd: ["JavaScript", "Java"],
-        databases: ["MySql", "mongo"],
+        backEnd: ["Java", "JavaScript"],
+        databases: ["MySql"],
     }
 };
 ```
 
-<h3 align="center">A passionate web developer from Mexico</h3>
-
-- 🌱 I’m currently learning **Vue**
+<h3 align="center">A passionate developer from Mexico</h3>
 
 - 📫 How to reach me **rene.he24@gmail.com**
 
