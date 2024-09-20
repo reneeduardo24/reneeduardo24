@@ -6,8 +6,9 @@ const rene = {
     pronouns: "He" | "Him",
     askMeAbout: ["tech", "app dev", "game"],
     technologies: {
-        backEnd: ["Java", "JavaScript"],
-        databases: ["MySql"],
+        backEnd: ["Java", "JavaScript", "Kotlin"],
+        databases: ["MySQL", "MongoDB"],
+        frameworks: ["SpringBoot", "Angular"],
     }
 };
 ```
